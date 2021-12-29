@@ -3,7 +3,7 @@
 - 😄 I use he/him pronouns.
 - 🔭 I’m currently working on accumulating experience through various projects.
 - 🌱 I’m currently learning front-end web development.
-- 📫 Reach me via email at augene.pak@gmail.com!
+- 📫 Reach me via email at ajp824@uw.edu!
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
