@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="img/lightmode.svg#gh-light-mode-only">
-
-<img src="img/darkmode.svg#gh-dark-mode-only">
+![Dark mode logo](img/darkmode.svg#gh-dark-mode-only)
+![Light mode logo](img/lightmode.svg#gh-light-mode-only)
 
 My name is Augene Pak, and I am a rising senior at the University of Washington majoring in [Informatics](https://ischool.uw.edu/programs/informatics) with an estimated graduation date of 2024. I aspire to be a software engineer upon graduation.
 
