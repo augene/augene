@@ -1,7 +1,9 @@
-### Hi there 👋
+<div align="center">
+<img src="AUGENE%20PAK.svg">
 
-I am Augene Pak, and I am an undergraduate student at the University of Washington majoring in [Informatics](https://ischool.uw.edu/programs/informatics).
+My name is Augene Pak, and I am a rising senior at the University of Washington majoring in [Informatics](https://ischool.uw.edu/programs/informatics) with an estimated graduation date of 2024. I aspire to be a software engineer upon graduation.
 
-I'm currently working on reestablishing fundamentals. I'm reviewing web development by developing my [personal website](https://github.com/augene/augene.github.io). I'm also reviewing basic programming concepts by revisiting content from my first two programming classes — AP Computer Science A and CSE 143 — through solving problems on [Practice-It!](https://practiceit.cs.washington.edu/problem/list), which was used for homework in high school when I first learned to program.
+I'm currently working as a returning TechStart intern at Liberty Mutual for the summer, specializing in data engineering. I am learning the fundamentals of Python and data engineering, while also learning how to be a better professional and person.
 
-Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/augenepak/) or shoot me an [email](mailto:ajp824@uw.edu)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/augenepak/) or shoot me an [email](mailto:augene.pak@gmail.com)!
+</div>
